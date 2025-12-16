@@ -32,6 +32,7 @@ This project demonstrates strong understanding of **Object-Oriented Programming 
 ---
 
 ## 🏗 Project Structure
+```bash
 Smart-Banking-Management-System-Java-OOP/
 │
 ├── src/
@@ -55,7 +56,7 @@ Smart-Banking-Management-System-Java-OOP/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 
 
