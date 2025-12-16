@@ -33,29 +33,29 @@ This project demonstrates strong understanding of **Object-Oriented Programming 
 
 ## 🏗 Project Structure
 Smart-Banking-Management-System-Java-OOP/
-
+│
 ├── src/
-
 │   └── com/
-
 │       └── banking/
-
 │           ├── Main.java
-
+│           │
 │           ├── model/
-
 │           │   ├── Account.java
 │           │   ├── SavingsAccount.java
 │           │   ├── CurrentAccount.java
 │           │   └── LoanAccount.java
+│           │
 │           ├── service/
 │           │   ├── BankService.java
 │           │   └── BankServiceImpl.java
+│           │
 │           └── exception/
 │               ├── InvalidAmountException.java
 │               └── InsufficientBalanceException.java
+│
 ├── .gitignore
 └── README.md
+
 
 
 
