@@ -32,21 +32,25 @@ This project demonstrates strong understanding of **Object-Oriented Programming 
 ---
 
 ## 🏗 Project Structure
-src/
-└── com/
-└── banking/
-├── Main.java
-├── model/
-│ ├── Account.java
-│ ├── SavingsAccount.java
-│ ├── CurrentAccount.java
-│ └── LoanAccount.java
-├── service/
-│ ├── BankService.java
-│ └── BankServiceImpl.java
-└── exception/
-├── InvalidAmountException.java
-└── InsufficientBalanceException.java
+Smart-Banking-Management-System-Java-OOP/
+├── src/
+│   └── com/
+│       └── banking/
+│           ├── Main.java
+│           ├── model/
+│           │   ├── Account.java
+│           │   ├── SavingsAccount.java
+│           │   ├── CurrentAccount.java
+│           │   └── LoanAccount.java
+│           ├── service/
+│           │   ├── BankService.java
+│           │   └── BankServiceImpl.java
+│           └── exception/
+│               ├── InvalidAmountException.java
+│               └── InsufficientBalanceException.java
+├── .gitignore
+└── README.md
+
 
 
 ---
@@ -74,3 +78,13 @@ cd Smart-Banking-Management-System-Java-OOP
 javac src/com/banking/Main.java
 java com.banking.Main
 
+## 📌 Sample Output
+Deposit successful.
+Withdrawal successful.
+Operation failed: Withdrawals are not allowed for loan accounts.
+
+--- Account Details ---
+Account No : 101
+Holder    : Manikanta
+Balance   : 4500.0
+---------------------------------
