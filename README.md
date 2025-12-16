@@ -86,12 +86,12 @@ java com.banking.Main
 ```
 
 ## 📌 Sample Output
-Deposit successful.
-Withdrawal successful.
-Operation failed: Withdrawals are not allowed for loan accounts.
+- Deposit successful.
+- Withdrawal successful.
+- Operation failed: Withdrawals are not allowed for loan accounts.
 
 --- Account Details ---
-Account No : 101
-Holder    : Manikanta
-Balance   : 4500.0
+- Account No : 101
+- Holder    : Manikanta
+- Balance   : 4500.0
 ---------------------------------
