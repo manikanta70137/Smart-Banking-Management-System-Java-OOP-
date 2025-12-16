@@ -33,11 +33,17 @@ This project demonstrates strong understanding of **Object-Oriented Programming 
 
 ## 🏗 Project Structure
 Smart-Banking-Management-System-Java-OOP/
+
 ├── src/
+
 │   └── com/
+
 │       └── banking/
+
 │           ├── Main.java
+
 │           ├── model/
+
 │           │   ├── Account.java
 │           │   ├── SavingsAccount.java
 │           │   ├── CurrentAccount.java
@@ -77,6 +83,7 @@ git clone https://github.com/manikanta70137/Smart-Banking-Management-System-Java
 cd Smart-Banking-Management-System-Java-OOP
 javac src/com/banking/Main.java
 java com.banking.Main
+```
 
 ## 📌 Sample Output
 Deposit successful.
